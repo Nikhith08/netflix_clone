@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  scrollbar-width: none;
+}
+
+.App {
+  background-color: #111;
+}
